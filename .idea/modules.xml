@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Using_Fragment_Object_and_Custom_Methods_to_Pass_Data.iml" filepath="$PROJECT_DIR$/Using_Fragment_Object_and_Custom_Methods_to_Pass_Data.iml" group="Using_Fragment_Object_and_Custom_Methods_to_Pass_Data" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Using_Fragment_Object_and_Custom_Methods_to_Pass_Data/app" />
+    </modules>
+  </component>
+</project>
